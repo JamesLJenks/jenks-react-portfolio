@@ -25,13 +25,13 @@ const Navbar = () => {
           </MobileIcon>
           <NavMenu>
             <NavItem>
-              <NavLinks to="/projects">Projects</NavLinks>
-            </NavItem>
-            <NavItem>
               <NavLinks to="skills">Skills</NavLinks>
             </NavItem>
             <NavItem>
               <NavLinks to="about">About</NavLinks>
+            </NavItem>
+            <NavItem>
+              <NavLinks to="projects">Projects</NavLinks>
             </NavItem>
             <NavItem>
               <NavLinks to="resume">Resume</NavLinks>
